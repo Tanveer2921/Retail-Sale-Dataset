@@ -1,1 +1,2 @@
 # Retail-Sale-Dataset
+This Power BI project analyzes a synthetic dataset of retail sales and customer demographics. The dataset simulates a dynamic retail environment, capturing essential attributes that drive retail operations and customer interactions. The dashboard provides key insights into sales trends, customer demographics, and purchasing behaviors, offering valuable information for strategic decision-making in a retail context.
